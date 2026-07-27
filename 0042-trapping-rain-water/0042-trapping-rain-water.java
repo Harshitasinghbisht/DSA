@@ -13,8 +13,8 @@ class Solution {
                 }
                 else{
                     area+=leftMax-height[l];
-                    l++;
                 }
+                l++;
             }
             else{
                 if(height[r]>rightMax){
@@ -22,8 +22,8 @@ class Solution {
                 }
                 else{
                     area+=rightMax-height[r];
-                    r--;
                 } 
+                r--;
             }
         }
         return area;

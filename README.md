@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Harshitasinghbisht/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitasinghbisht/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Harshitasinghbisht/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Harshitasinghbisht/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshitasinghbisht/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Harshitasinghbisht/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitasinghbisht/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Harshitasinghbisht/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Harshitasinghbisht/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshitasinghbisht/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |

@@ -4,13 +4,12 @@ class Solution {
         int fast=0;
         while(fast<nums.length){
             if(nums[fast]!=0){
-              swap(nums,slow,fast);
-              fast++;
+             if(slow!=fast){
+                 swap(nums,slow,fast);
+             }
               slow++;
             }
-            else{
-                fast++;
-            }
+             fast++;
         }
     }
 

@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Harshitasinghbisht/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Harshitasinghbisht/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshitasinghbisht/DSA/tree/main/0611-valid-triangle-number/) | Medium |
+| [0704-binary-search](https://github.com/Harshitasinghbisht/DSA/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshitasinghbisht/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Harshitasinghbisht/DSA/tree/main/0611-valid-triangle-number/) | Medium |
+| [0704-binary-search](https://github.com/Harshitasinghbisht/DSA/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

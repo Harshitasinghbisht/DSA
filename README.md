@@ -59,12 +59,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Harshitasinghbisht/DSA/tree/main/0189-rotate-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Harshitasinghbisht/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Harshitasinghbisht/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Harshitasinghbisht/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0611-valid-triangle-number](https://github.com/Harshitasinghbisht/DSA/tree/main/0611-valid-triangle-number/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Harshitasinghbisht/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Harshitasinghbisht/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Harshitasinghbisht/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Harshitasinghbisht/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |

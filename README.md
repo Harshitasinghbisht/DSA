@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshitasinghbisht/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/Harshitasinghbisht/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshitasinghbisht/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitasinghbisht/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harshitasinghbisht/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harshitasinghbisht/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
